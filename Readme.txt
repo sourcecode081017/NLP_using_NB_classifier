@@ -17,6 +17,4 @@ This is because the program uses fixed directory structure and folder names
 
 Run the MultinomialNB.py file
 
-The program approximately take 20 mins  to run,and the prediction out can be seen in any ipython console as the program is running. 
-This is because 9997 test documents were used to make prediction and each document is passed into the Naive bayes classifier, 
-in a Naive approach without any libraries like sk-learn or tensorFlow. 
+
